@@ -8,6 +8,10 @@
   Medusa Affiliate Discount
 </h1>
 
+<h2>
+  Note: This plugin will be migrated to Medusa v2, when v2 will reach production readiness.
+</h2>
+
 Medusa "Affiliate Discount" is a plugin which enables possibility to create a discount which is a part of affiliation program.
 
 ### Why?
